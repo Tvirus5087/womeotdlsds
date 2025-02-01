@@ -1,0 +1,41 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Whispers of Mara Echoes of the Dark Lady",
+    "description": "Step into Whispers of Mara: Echoes of the Dark Lady, a Skyrim SE modlist where romance meets dark fantasy." 
+    "maintainers": [
+      "github/tvirus5087>"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "anniversaryedtion",
+      "NSFW",
+      "Serana Dead Sexy",
+      "OSTIM",
+      "Romance",
+      "Loverslab",
+      
+    ],
+    "nsfw": true,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://drive.google.com/file/d/11iOScseOREQ4hCzb3yL4E1gXyy1Oh5FU/view?usp=drive_link",
+      "readme": "https://github.com/Tvirus5087/womeotdlsds/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "none",
+      "discordURL": "https://discord.gg/xzJsAAP28x"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "0HhU/KamOCE=",
+      "Size": 11451134943,
+      "NumberOfArchives": 2087,
+      "SizeOfArchives": 212434232501,
+      "NumberOfInstalledFiles": 490981,
+      "SizeOfInstalledFiles": 407288006982
+    },
+    "version": "0..1.1170"
+  }
+]
